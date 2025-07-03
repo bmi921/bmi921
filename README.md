@@ -1,5 +1,5 @@
-**Hi😎 I'm bmi921[🎵](https://lastfm-recent-tracks-production.up.railway.app/api/bmi921)  
-i'm interested in 🧪data-science, 📏math-optimization, 🌐developping-web.**  
+### **Hi🖐️ I'm bmi921☺️  
+i'm interested in 🧪data-science, 🤖machine-leaerining 🌐web application.**  
 Hobby:🎸jazz guitar, 💻coding, ☕coffee, 🎮game
 <details><summary>📚more details</summary>
   
