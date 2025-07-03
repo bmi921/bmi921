@@ -1,4 +1,4 @@
-### **Hi🖐️ I'm bmi921☺️  
+### Hi🖐️ I'm bmi921☺️ 
 i'm interested in 🧪data-science, 🤖machine-leaerining 🌐web application.**  
 Hobby:🎸jazz guitar, 💻coding, ☕coffee, 🎮game
 <details><summary>📚more details</summary>
@@ -13,5 +13,4 @@ Hobby:🎸jazz guitar, 💻coding, ☕coffee, 🎮game
 </details>
 
 
-
- 
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=🏄&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=50&textBg=false&section=footer&reversal=true&fontSize=0&animation=twinkling&rotate=30&strokeWidth=1)
