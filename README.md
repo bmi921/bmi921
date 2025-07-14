@@ -5,7 +5,7 @@ Hobby:🎸jazz guitar, 💻coding, ☕coffee, 🎮game
   
 ✅ *2020/03～2025/03* **Ibaraki National College of Technology** (computer science)  
 ⬛ *2025/04～* **Tokyo University of Marine Science and Technology** (logistics engineering)  
-⬛ *2025/08* internship OPTiM
+⬛ *2025/08* OPTiM 2週間有給インターン
 
 
 
