@@ -1,2 +1,1 @@
-https://qiita.com/BMI921
-
+nitic -> tumsat, B3
